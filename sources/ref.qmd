@@ -1,0 +1,12 @@
+---
+format: docusaurus-md
+bibliography: ref.bib
+output-file: ref_output.md
+csl: ../templates/my_ref.csl
+---
+
+@Shikibu2023
+@Komachi2022
+@Shikibu2021
+
+# Refs

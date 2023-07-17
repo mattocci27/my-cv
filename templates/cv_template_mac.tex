@@ -1,0 +1,192 @@
+\documentclass[10pt]{scrartcl}
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{calc}
+\usepackage{csquotes}
+\usepackage{academicons}
+\usepackage{fontawesome5}
+\usepackage{lastpage}
+\usepackage{parskip}
+\usepackage{multicol}
+\usepackage{ifplatform}
+\usepackage{xurl}
+\usepackage{url}
+
+% Define the layout settings
+\geometry{
+  left=0.8in,        % backspace
+  right=0.8in,       % cutspace
+  top=0.8in,         % topspace
+  bottom=0.8in,      % bottomspace
+  headheight=0.3in,  % header
+  headsep=1em,       % header separator
+  footskip=0in       % footer
+}
+
+\setlength{\parindent}{0pt}
+% \setlength{\parskip}{0.5em}
+
+% Define tightlist command
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0.5em}\setlength{\parskip}{0pt}}
+
+% Color configuration
+\definecolor{titlegrey}{HTML}{757575}
+\definecolor{orange}{HTML}{d14b02}
+\definecolor{sectioncolor}{HTML}{0288d1}
+\definecolor{rulecolor}{HTML}{0288d1}
+
+% Hyperlinks configuration
+\hypersetup{
+  colorlinks=true,
+  urlcolor=sectioncolor,
+  citecolor=sectioncolor,
+  linkcolor=sectioncolor}
+
+
+% Remove hyperlink color
+\newcommand{\nolink}[1]{%
+  \begingroup
+  \hypersetup{hidelinks}%
+  #1%
+  \endgroup
+}
+
+% Header configuration
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{$author${}, CV, Page \thepage{} of \nolink{\pageref{LastPage}}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Section configuration
+\titleformat{\section}
+  {\normalfont\huge\sffamily\bfseries\color{orange}\filcenter}
+  {}{0em}{}
+\titleformat{\subsection}
+  {\normalfont\Large\sffamily\bfseries\color{sectioncolor}}
+  {}{0em}{\raisebox{0ex}{\color{rulecolor}\rule{12mm}{5pt}}\hspace{0.25em}}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\sffamily\bfseries}
+  {}{0em}{}
+
+% List configuration
+\setlist{nolistsep}
+\setlist[itemize]{leftmargin=*}
+
+% Font configuration
+\defaultfontfeatures{Ligatures=TeX}
+% \setmathfont{Cousine}
+\setmainfont{Optima}
+\setsansfont{Optima}
+\setmonofont{Optima}
+
+% No section numbering
+$if(number-sections)$
+$else$
+\setcounter{secnumdepth}{0}
+$endif$
+
+% Custom Description environment
+\usepackage{enumitem}
+\setlist[description]{
+  font=\normalfont,
+  leftmargin=3em,
+  itemsep=0.5em,
+  parsep=0em
+  }
+\newenvironment{customdescription}[1][3in]
+{\begin{description}[
+  style=sameline,
+  leftmargin=!,
+  labelwidth=\widthof{#1},
+  labelsep=5em,
+  itemindent=-2.4in]}
+{\end{description}}
+
+\newenvironment{noitemize}
+  {\begin{itemize}[label={}] }
+  {\end{itemize}}
+\newcommand{\noitem}[1]{\item #1}
+
+% Unorderd list configuration
+\setlist{nolistsep}
+\setlist[itemize]{
+  labelindent=3.5cm,
+  itemsep=2em,
+  parsep=3em
+  }
+% Ordered list configuration
+\setlist[enumerate]{
+  align=left,
+  labelsep=0.5em,
+  itemsep=0em,
+  parsep=0.5em
+  }
+
+% Figure and table configuration
+\usepackage{caption}
+\captionsetup[figure]{labelformat=empty}
+\captionsetup[table]{labelformat=empty}
+
+% Custom Blockquote configuration
+\usepackage{csquotes}
+\newenvironment{customblockquote}
+  {\begin{displayquote}\centering}
+  {\end{displayquote}}
+
+% Table of contents configuration
+$if(toc)$
+\usepackage{tocloft}
+$endif$
+
+% Header includes
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+% Document start
+\begin{document}
+
+% Header content
+\begin{center}
+  $if(author)$\textbf{\LARGE\color{titlegrey}\sffamily{\detokenize{$author$}}}\\$endif$
+  $if(title)$ $title$\\$endif$
+  $if(department)$ $department$\\$endif$
+  $if(address)$ $address$\\$endif$
+  $if(phone)$\faPhone{} $phone$$endif$
+  $if(mail)$\faIcon{envelope} \href{mailto:$mail$}{$mail$}$endif$
+  $if(web)$\faIcon{globe} \href{https://$web$}{$web$}$endif$
+  $if(orcid)$\aiOrcid{} \href{https://orcid.org/$orcid$}{$orcid$}$endif$
+  % $if(discord)$\faDiscord{} $discord$$endif$
+  \par\noindent\rule{\textwidth}{0.4pt}
+\end{center}
+
+% Include before content
+$for(include-before)$
+$include-before$
+$endfor$
+
+% Table of contents
+$if(toc)$
+\tableofcontents
+$endif$
+
+% Body content
+$body$
+
+% Include after content
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}

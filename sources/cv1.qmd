@@ -1,0 +1,37 @@
+---
+author: Murasaki Shikibu
+title: Postdoctoral Research Associate
+department: Genji University
+address: Hoge, Moge, Fuga 12345, Japan
+web: your-url
+mail: your-email
+orcid: your-orcid
+---
+
+## Research Interest
+
+Hoge, Moge, and Fuga.
+
+
+## Education
+
+2021
+: **Ph.D. (Genji Sciences)**, Genji City University, Japan, "Title of my PhD thesis".
+
+2018
+: **M.S. (Genji Sciences)**, University of Hikarau, Japan
+
+## Academic & Research Positions
+
+September 2021-
+: \hfill
+: **Postdoctoral Research Associate**, Genji University, Japan
+
+## Grants & Fellowships
+
+2022
+: Genji Science Foundation
+(xxxxx)
+xxxx JPY
+
+## Publications

@@ -1,0 +1,17 @@
+---
+format:
+  pdf:
+    pdf-engine: xelatex
+    keep-tex: true
+    latex-clean: true
+    template: templates/cv_template_mac.tex
+  docx:
+    reference-doc: templates/cv_template.docx
+---
+
+{{< include sources/cv1.qmd >}}
+
+{{< include outputs/ref_output_edit.md >}}
+
+{{< include sources/cv2.qmd >}}
+

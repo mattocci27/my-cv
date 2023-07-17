@@ -1,0 +1,47 @@
+*.tuc
+*.log
+*.pdf
+*.html
+*.swo
+*.swp
+*.rtf
+cont-en.fmt
+.DS_Store
+.env
+app
+
+# binary files
+*.sif
+*.pdf
+*.eps
+*.csv
+# *.png
+*.docx
+*.pptx
+*.xslx
+*.html
+*.fdb_latexmk
+
+# cache from quarto
+*_files/
+
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+/.quarto/
+main-export/
+
+outputs/*
+!outputs/.gitkeep
+!templates/cv_template.docx
