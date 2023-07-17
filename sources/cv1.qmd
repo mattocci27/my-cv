@@ -1,37 +1,102 @@
 ---
-author: Murasaki Shikibu
-title: Postdoctoral Research Associate
-department: Genji University
-address: Hoge, Moge, Fuga 12345, Japan
-web: your-url
-mail: your-email
-orcid: your-orcid
+author: Masatoshi Katabuchi
+title: Associate Professor
+department: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
+address: Menglun, Mengla, Yunnan, 666303 China
+web: mattocci27.github.io
+mail: katabuchi@xtbg.ac.cn
+orcid: 0000-0001-9900-9029
 ---
 
 ## Research Interest
 
-Hoge, Moge, and Fuga.
-
+Community ecology, Tropical forest ecology, Functional traits, Global change biology, Bayesian and likelihood methods
 
 ## Education
 
-2021
-: **Ph.D. (Genji Sciences)**, Genji City University, Japan, "Title of my PhD thesis".
+**Tohoku University, Japan**, Supervisor: Tohru Nakashizuka
 
-2018
-: **M.S. (Genji Sciences)**, University of Hikarau, Japan
+2012
+: **Ph.D. (Life Sciences)**, Graduate School of Life Sciences "Community assembly and dynamics in tropical rainforests on the basis of functional traits".
+
+2009
+: **M.S. (Life Sciences)**, Graduate School of Life Sciences, "Reproductive ecology of a common dioecious fig and its pollinating wasp in a tropical secondary forest in Sarawak, Malaysia"
+
+2007
+: **B.S. (Biology)**, Department of Biology
 
 ## Academic & Research Positions
 
-September 2021-
+June 2019-
 : \hfill
-: **Postdoctoral Research Associate**, Genji University, Japan
+: **Associate Professor**, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
+
+August 2017-February 2019
+: \hfill
+: **Postdoctoral Research Associate**, Michigan State University, USA
+
+August 2017-February 2019
+: \hfill
+: **Postdoctoral Research Associate**, Michigan State University, USA
+
+January 2017-August 2017
+: \hfill
+: **Visiting Scholar**, University of Florida, USA
+
+March 2016-January 2017
+: \hfill
+: **Postdoctoral Research Associate**, University of Florida, USA
+
+February 2014-February 2016
+: \hfill
+: **JSPS Postdoctoral Fellow for Research Abroad**, University of Florida, USA
+
+September 2012-February 2014
+: \hfill
+:   **Postdoctoral Research Fellow**, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
+
+April-August 2012
+: \hfill
+: **Postdoctoral Research Fellow**, Tohoku University, Japan
+
+April 2010-March 2012
+: \hfill
+: **JSPS Research Fellow DC2**, Tohoku University, Japan
 
 ## Grants & Fellowships
 
+2023
+: Xishuangbanna State Rainforest Talent Support Program 360,000 RMB
+
 2022
-: Genji Science Foundation
-(xxxxx)
-xxxx JPY
+: ZiHui (Wisdom) Yunnan Program (202203AM140026) 120,000 RMB
+
+2021
+: National Natural Science Foundation of China/RGC (3211101015)
+PIs: Louise Ashton, Akihiro Nakamura.
+Co-Is: Jin Wu, Min Cao, Masatoshi Katabuchi.
+
+2020
+: Chinese Academy of Sciences President's International Fellowship Initiative
+(2020FYB0003) 300,000 RMB
+
+2014
+: JSPS Postdoctoral Fellowship for Research Abroad (no. 25-504) 10,512,000 JPY
+
+2013
+: Chinese Academy of Sciences Fellowships for Young International Scientists (no. 2013Y1SB0002) 165,000 RMB
+
+2010
+: Grant-in-Aid for Scientific Research for JSPS Research Fellowship (no. 22-7035) 1,400,000 JPY
+
+## Collaborator Named on Foreign Grants
+
+2021
+: The Japan Society for the Promotion of Science Grant-in-Aid for Scientific Research (21H02248).
+PI: Yoshiko Iida.
+Co-PIs: Wakana Azuma, Mai Kamakura, Takashi Kohyama.
+External Scientific Collaborator: Masatoshi Katabuchi
+
 
 ## Publications
+
