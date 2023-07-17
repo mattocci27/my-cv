@@ -32,9 +32,6 @@ Chinese Academy of Sciences, China
 August 2017-February 2019  
 **Postdoctoral Research Associate**, Michigan State University, USA
 
-August 2017-February 2019  
-**Postdoctoral Research Associate**, Michigan State University, USA
-
 January 2017-August 2017  
 **Visiting Scholar**, University of Florida, USA
 
