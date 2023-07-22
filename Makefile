@@ -1,5 +1,5 @@
-AUTHOR='Shikibu, M.'
-LASTNAME=Shikibu
+AUTHOR='Katabuchi, M.'
+LASTNAME=Katabuchi
 OUTPUT_PREFIX=outputs/$(LASTNAME)_CV
 
 COMMON_DEPS = main.qmd sources/cv1.qmd outputs/ref_output_edit.md sources/cv2.qmd
