@@ -55,7 +55,7 @@ April 2010-March 2012
 ## Grants & Fellowships
 
 2023  
-Xishuangbanna State Rainforest Talent Support Program 360,000 RMB
+Xishuangbanna State Rainforest Talent Support Program 300,000 RMB
 
 2022  
 ZiHui (Wisdom) Yunnan Program (202203AM140026) 120,000 RMB
@@ -101,7 +101,7 @@ Masatoshi Katabuchi
     Cao, M. Interspecific and intraspecific adaptations of pteridophyte
     leaf traits in limestone and non-limestone forests of monsoon
     tropical regions of southwest China. ***Journal of Plant Ecology***
-    rtad026 (2023) [\[doi\]](https://doi.org/10.1093/jpe/rtad026).
+    16, rtad026 (2023) [\[doi\]](https://doi.org/10.1093/jpe/rtad026).
 
 3.  Maenpuen, P., **Katabuchi, M.**, Onoda, Y., Zhou, C., Zhang, J.-L. &
     Chen, Y.-J. Sources and consequences of mismatch between leaf disc
@@ -380,8 +380,9 @@ Introduction to visualization using ggplot2, International Institute of
 Tropical Agriculture, Kenya
 
 2018  
-A quantitive model for divergent drivers of leaf trait variation within
-and among plant species, Xishuangbanna Tropical Botanical Garden, China
+A quantitative model for divergent drivers of leaf trait variation
+within and among plant species, Xishuangbanna Tropical Botanical Garden,
+China
 
 2018  
 Species coexistence and functional traits. Graduate School of Life
@@ -409,7 +410,7 @@ Xishuangbanna Tropical Botanical Garden, China
 2015  
 **Masatoshi Katabuchi**, “Future perspective for functional trait
 research”, Organized session on “Achievements and outstanding questions
-for trait-based forest ecology” , 62nd ESJ Annual meeting, Kagoshima,
+for trait-based forest ecology”, 62nd ESJ Annual meeting, Kagoshima,
 Japan
 
 2014  

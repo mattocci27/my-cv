@@ -22,7 +22,7 @@ doi:[10.32942/X2B60S](https://doi.org/10.32942/X2B60S).</span>
 Nakamura, A., Cheng, X. & Cao, M. Interspecific and intraspecific
 adaptations of pteridophyte leaf traits in limestone and non-limestone
 forests of monsoon tropical regions of southwest China. ***Journal of
-Plant Ecology*** rtad026 (2023),
+Plant Ecology*** 16, rtad026 (2023),
 doi:[10.1093/jpe/rtad026](https://doi.org/10.1093/jpe/rtad026).</span>
 
 <span class="csl-left-margin">3.
