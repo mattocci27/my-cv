@@ -91,7 +91,7 @@ Reviewer for journals (~ 12 per year):
 : Introduction to visualization using ggplot2, International Institute of Tropical Agriculture, Kenya
 
 2018
-: A quantitive model for divergent drivers of leaf trait variation within and among plant species, Xishuangbanna Tropical Botanical Garden, China
+: A quantitative model for divergent drivers of leaf trait variation within and among plant species, Xishuangbanna Tropical Botanical Garden, China
 
 2018
 : Species coexistence and functional traits. Graduate School of Life Sciences, Tohoku University, Japan
@@ -110,7 +110,7 @@ Reviewer for journals (~ 12 per year):
 **Invited**
 
 2015
-: **Masatoshi Katabuchi**, "Future perspective for functional trait research", Organized session on "Achievements and outstanding questions for trait-based forest ecology" , 62nd ESJ Annual meeting, Kagoshima, Japan
+: **Masatoshi Katabuchi**, "Future perspective for functional trait research", Organized session on "Achievements and outstanding questions for trait-based forest ecology", 62nd ESJ Annual meeting, Kagoshima, Japan
 
 2014
 : **Masatoshi Katabuchi (Organizer)**, “Seedling dynamics and its consequence to community assembly processes in a tropical forest”, Symposium on "Integrating the structure and dynamics of tree communities to uncover the mechanisms underlying species coexistence", 61st ESJ Annual meeting, Hiroshima, Japan
