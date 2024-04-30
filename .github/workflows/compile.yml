@@ -11,9 +11,9 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Setup Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.11'
     - name: Install Dependencies
@@ -56,9 +56,9 @@ jobs:
       contents: write
     if: github.ref == 'refs/heads/main'
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Download dist folder
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: "dist"
           path: dist
