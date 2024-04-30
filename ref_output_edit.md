@@ -1,4 +1,4 @@
-1.  Zhou, C., Nakamura, A., Song, X. & **Katabuchi, M.** Artificial light at night (ALAN) influences understory plant traits through ecological processes: A two-year experiment in a rubber plantation in China. ***EcoEvoRxiv*** (2023) [[doi]](https://doi.org/10.32942/X2B60S).
+1.  Zhou, C., Nakamura, A., Song, X. & **Katabuchi, M.** Artificial Light at Night (ALAN) Influences Understory Plant Traits through Ecological Processes: A Two-Year Experiment in a Rubber Plantation in China. ***Ecologies*** 4, 704–713 (2023) [[doi]](https://doi.org/10.3390/ecologies4040046).
 
 2.  Phoutthavong, K., **Katabuchi, M.**, Nakamura, A., Cheng, X. & Cao, M. Interspecific and intraspecific adaptations of pteridophyte leaf traits in limestone and non-limestone forests of monsoon tropical regions of southwest China. ***Journal of Plant Ecology*** 16, rtad026 (2023) [[doi]](https://doi.org/10.1093/jpe/rtad026).
 

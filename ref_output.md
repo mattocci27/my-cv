@@ -1,4 +1,5 @@
 
+
 <sup>1</sup><sup>2</sup> <sup>3</sup><sup>4</sup>
 <sup>5</sup><sup>6</sup> <sup>7</sup><sup>8</sup>
 <sup>9</sup><sup>10</sup> <sup>11</sup><sup>12</sup>
@@ -12,10 +13,10 @@
 
 <span class="csl-left-margin">1.
 </span><span class="csl-right-inline">Zhou, C., Nakamura, A., Song, X. &
-Katabuchi, M. Artificial light at night (ALAN) influences understory
-plant traits through ecological processes: A two-year experiment in a
-rubber plantation in China. ***EcoEvoRxiv*** (2023),
-doi:[10.32942/X2B60S](https://doi.org/10.32942/X2B60S).</span>
+Katabuchi, M. Artificial Light at Night (ALAN) Influences Understory
+Plant Traits through Ecological Processes: A Two-Year Experiment in a
+Rubber Plantation in China. ***Ecologies*** 4, 704–713 (2023),
+doi:[10.3390/ecologies4040046](https://doi.org/10.3390/ecologies4040046).</span>
 
 <span class="csl-left-margin">2.
 </span><span class="csl-right-inline">Phoutthavong, K., Katabuchi, M.,

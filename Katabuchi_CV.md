@@ -1,5 +1,5 @@
 # Associate Professor
-Masatoshi Katabuchi
+
 
 ## Research Interest
 
@@ -54,6 +54,9 @@ April 2010-March 2012
 
 ## Grants & Fellowships
 
+2024  
+NIG-JOINT 149,000 JPY
+
 2023  
 Xishuangbanna State Rainforest Talent Support Program 300,000 RMB
 
@@ -92,10 +95,10 @@ Masatoshi Katabuchi
 ## Publications
 
 1.  Zhou, C., Nakamura, A., Song, X. & **Katabuchi, M.** Artificial
-    light at night (ALAN) influences understory plant traits through
-    ecological processes: A two-year experiment in a rubber plantation
-    in China. ***EcoEvoRxiv*** (2023)
-    [\[doi\]](https://doi.org/10.32942/X2B60S).
+    Light at Night (ALAN) Influences Understory Plant Traits through
+    Ecological Processes: A Two-Year Experiment in a Rubber Plantation
+    in China. ***Ecologies*** 4, 704–713 (2023)
+    [\[doi\]](https://doi.org/10.3390/ecologies4040046).
 
 2.  Phoutthavong, K., **Katabuchi, M.**, Nakamura, A., Cheng, X. &
     Cao, M. Interspecific and intraspecific adaptations of pteridophyte
