@@ -30,6 +30,7 @@ jobs:
         python scripts/ref_edit.py '${{ env.AUTHOR }}'
     - name: Generate PDF CV
       run: |
+        tlmgr update --self
         tlmgr install academicons ifplatform catchfile xurl
         quarto render main.qmd --to=pdf
         quarto render main.qmd --to=pdf
