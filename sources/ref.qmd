@@ -5,6 +5,7 @@ output-file: ref_output.md
 csl: ../templates/my_ref.csl
 ---
 
+@Song2024a
 @Zhou2023a
 @Phoutthavong2023
 @Maenpuen2022
