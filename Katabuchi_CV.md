@@ -1,5 +1,5 @@
 # Associate Professor
-
+Masatoshi Katabuchi
 
 ## Research Interest
 
@@ -54,11 +54,18 @@ April 2010-March 2012
 
 ## Grants & Fellowships
 
+2025  
+NIG-JOINT 193,000 JPY
+
+2025  
+Xingdian Talent Support Program of Yunnan Province 600,000 RMB
+
 2024  
 NIG-JOINT 149,000 JPY
 
 2023  
-Xishuangbanna State Rainforest Talent Support Program 300,000 RMB
+Xishuangbanna State Rainforest Talent Support Program (E4BN041B01)
+360,000 RMB
 
 2022  
 ZiHui (Wisdom) Yunnan Program (202203AM140026) 120,000 RMB
@@ -94,44 +101,60 @@ Masatoshi Katabuchi
 
 ## Publications
 
-1.  Zhou, C., Nakamura, A., Song, X. & **Katabuchi, M.** Artificial
+1.  Nguyen, T. D. & **Katabuchi, M.** Saturating allometric
+    relationships reveal how wood density shapes global tree
+    architecture. ***Journal of Forestry Research*** (accepted).
+
+2.  **Katabuchi, M.**, Kitajima, K., Wright, S. J., Van Bael, S. A.,
+    Osnas, J. L. D. & Lichstein, J. W. Decomposing leaf mass into
+    metabolic and structural components explains divergent patterns of
+    trait variation within and among plant species. ***Oecologia*** 207,
+    71 (2025) [\[doi\]](https://doi.org/10.1007/s00442-025-05714-3).
+
+3.  Song, X., **Katabuchi, M.**, Chase, J. M., Johnson, D. J., Zhang,
+    W., Deng, X., Cao, M. & Yang, J. Drought tolerance and species
+    abundance mediate dry season negative density dependence in a
+    tropical forest. ***Ecology*** 105, e4382 (2024)
+    [\[doi\]](https://doi.org/10.1002/ecy.4382).
+
+4.  Zhou, C., Nakamura, A., Song, X. & **Katabuchi, M.** Artificial
     Light at Night (ALAN) Influences Understory Plant Traits through
     Ecological Processes: A Two-Year Experiment in a Rubber Plantation
     in China. ***Ecologies*** 4, 704–713 (2023)
     [\[doi\]](https://doi.org/10.3390/ecologies4040046).
 
-2.  Phoutthavong, K., **Katabuchi, M.**, Nakamura, A., Cheng, X. &
-    Cao, M. Interspecific and intraspecific adaptations of pteridophyte
-    leaf traits in limestone and non-limestone forests of monsoon
-    tropical regions of southwest China. ***Journal of Plant Ecology***
-    16, rtad026 (2023) [\[doi\]](https://doi.org/10.1093/jpe/rtad026).
+5.  Phoutthavong, K., **Katabuchi, M.**, Nakamura, A., Cheng, X. &
+    Cao, M. Inter- and intraspecific adaptations of pteridophyte leaf
+    traits in limestone and non-limestone forests of monsoon tropical
+    regions of southwest China. ***Journal of Plant Ecology*** 16,
+    rtad026 (2023) [\[doi\]](https://doi.org/10.1093/jpe/rtad026).
 
-3.  Maenpuen, P., **Katabuchi, M.**, Onoda, Y., Zhou, C., Zhang, J.-L. &
+6.  Maenpuen, P., **Katabuchi, M.**, Onoda, Y., Zhou, C., Zhang, J.-L. &
     Chen, Y.-J. Sources and consequences of mismatch between leaf disc
     and whole-leaf leaf mass per area (LMA). ***American Journal of
     Botany*** 109, 1242–1250 (2022)
     [\[doi\]](https://doi.org/10.1002/ajb2.16038).
 
-4.  Chen, Y.-J., Maenpuen, P., Zhang, Y.-J., Barai, K., **Katabuchi,
-    M.**, Gao, H., Kaewkamol, S., Tao, L.-B. & Zhang, J.-L. Quantifying
-    vulnerability to embolism in tropical trees and lianas using five
-    methods: Can discrepancies be explained by xylem structural traits?
-    ***New Phytologist*** 229, 805–819 (2021)
-    [\[doi\]](https://doi.org/10.1111/nph.16927).
-
-5.  Chen, Y.-J., Choat, B., Sterck, F., Maenpuen, P., **Katabuchi, M.**,
+7.  Chen, Y.-J., Choat, B., Sterck, F., Maenpuen, P., **Katabuchi, M.**,
     Zhang, S.-B., Tomlinson, K. W., Oliveira, R. S., Zhang, Y.-J., Shen,
     J.-X., Cao, K.-F. & Jansen, S. Hydraulic prediction of
     drought-induced plant dieback and top-kill depends on leaf habit and
     growth form. ***Ecology Letters*** 24, 2350–2363 (2021)
     [\[doi\]](https://doi.org/10.1111/ele.13856).
 
-6.  Swenson, N. G., Hulshof, C. M., **Katabuchi, M.** & Enquist, B. J.
+8.  Chen, Y.-J., Maenpuen, P., Zhang, Y.-J., Barai, K., **Katabuchi,
+    M.**, Gao, H., Kaewkamol, S., Tao, L.-B. & Zhang, J.-L. Quantifying
+    vulnerability to embolism in tropical trees and lianas using five
+    methods: Can discrepancies be explained by xylem structural traits?
+    ***New Phytologist*** 229, 805–819 (2021)
+    [\[doi\]](https://doi.org/10.1111/nph.16927).
+
+9.  Swenson, N. G., Hulshof, C. M., **Katabuchi, M.** & Enquist, B. J.
     Long-term shifts in the functional composition and diversity of a
     tropical dry forest: A 30-yr study. ***Ecological Monographs***
     e01408 (2020) [\[doi\]](https://doi.org/10.1002/ecm.1408).
 
-7.  Sreekar, R., **Katabuchi, M.**, Nakamura, A., Corlett, R. T.,
+10. Sreekar, R., **Katabuchi, M.**, Nakamura, A., Corlett, R. T.,
     Slik, J. W. F., Fletcher, C., He, F., Weiblen, G. D., Shen, G., Xu,
     H., Sun, I.-F., Cao, K., Ma, K., Chang, L.-W., Cao, M., Jiang, M.,
     Gunatilleke, I. A. U. N., Ong, P., Yap, S., Gunatilleke, C. V. S.,
@@ -141,7 +164,7 @@ Masatoshi Katabuchi
     species richness and latitude. ***Open Science*** 5, 181168 (2018)
     [\[doi\]](https://doi.org/10.1098/rsos.181168).
 
-8.  Johnson, D. J., Needham, J., Xu, C., Massoud, E. C., Davies, S. J.,
+11. Johnson, D. J., Needham, J., Xu, C., Massoud, E. C., Davies, S. J.,
     Anderson-Teixeira, K. J., Bunyavejchewin, S., Chambers, J. Q.,
     Chang-Yang, C.-H., Chiang, J.-M., Chuyong, G. B., Condit, R.,
     Cordell, S., Fletcher, C., Giardina, C. P., Giambelluca, T. W.,
@@ -155,7 +178,7 @@ Masatoshi Katabuchi
     Ecology & Evolution*** 1 (2018)
     [\[doi\]](https://doi.org/10.1038/s41559-018-0626-z).
 
-9.  Osnas, J. L. D., **Katabuchi, M.**, Kitajima, K., Wright, S. J.,
+12. Osnas, J. L. D., **Katabuchi, M.**, Kitajima, K., Wright, S. J.,
     Reich, P. B., Van Bael, S. A., Kraft, N. J. B., Samaniego, M. J.,
     Pacala, S. W. & Lichstein, J. W. Divergent drivers of leaf trait
     variation within species, among species, and among functional
@@ -163,7 +186,7 @@ Masatoshi Katabuchi
     United States of America*** 115, 5480–5485 (2018)
     [\[doi\]](https://doi.org/10.1073/pnas.1803989115).
 
-10. Li, Y., Shipley, B., Price, J. N., Dantas, V. de L., Tamme, R.,
+13. Li, Y., Shipley, B., Price, J. N., Dantas, V. de L., Tamme, R.,
     Westoby, M., Siefert, A., Schamp, B. S., Spasojevic, M. J., Jung,
     V., Laughlin, D. C., Richardson, S. J., Bagousse-Pinguet, Y. L.,
     Schöb, C., Gazol, A., Prentice, H. C., Gross, N., Overton, J.,
@@ -174,19 +197,13 @@ Masatoshi Katabuchi
     communities worldwide. ***Journal of Ecology*** 3, 808–809 (2017)
     [\[doi\]](https://doi.org/10.1111/1365-2745.12802).
 
-11. **Katabuchi, M.**, Wright, S. J., Swenson, N. G., Feeley, K. J.,
+14. **Katabuchi, M.**, Wright, S. J., Swenson, N. G., Feeley, K. J.,
     Condit, R., Hubbell, S. P. & Davies, S. J. Contrasting outcomes of
     species- and community-level analyses of the temporal consistency of
     functional composition. ***Ecology*** 98, 2273–2280 (2017)
     [\[doi\]](https://doi.org/10.1002/ecy.1952).
 
-12. **Katabuchi, M.**, Kitajima, K., Wright, S. J., Van Bael, S. A.,
-    Osnas, J. L. D. & Lichstein, J. W. Decomposing leaf mass into
-    photosynthetic and structural components explains divergent patterns
-    of trait variation within and among plant species.
-    ***bioRxiv*** (2017) [\[doi\]](https://doi.org/10.1101/116855).
-
-13. Siefert, A., Violle, C., Chalmandrier, L., Albert, C. H., Taudiere,
+15. Siefert, A., Violle, C., Chalmandrier, L., Albert, C. H., Taudiere,
     A., Fajardo, A., Aarssen, L. W., Baraloto, C., Carlucci, M. B.,
     Cianciaruso, M. V., de L. Dantas, V., de Bello, F., Duarte, L. D.
     S., Fonseca, C. R., Freschet, G. T., Gaucherand, S., Gross, N.,
@@ -201,12 +218,12 @@ Masatoshi Katabuchi
     communities. ***Ecology Letters*** 18, 1406–1419 (2015)
     [\[doi\]](https://doi.org/10.1111/ele.12508).
 
-14. **Katabuchi, M.** LeafArea: An R package for rapid digital image
+16. **Katabuchi, M.** LeafArea: An R package for rapid digital image
     analysis of leaf area. ***Ecological Research*** 30,
     1073–1077 (2015)
     [\[doi\]](https://doi.org/10.1007/s11284-015-1307-x).
 
-15. Ashton, L. A., Nakamura, A., Basset, Y., Burwell, C. J., Cao, M.,
+17. Ashton, L. A., Nakamura, A., Basset, Y., Burwell, C. J., Cao, M.,
     Eastwood, R., Odell, E., de Oliveira, E. G., Hurley, K.,
     **Katabuchi, M.**, Maunsell, S., Mcbroom, J., Schmidl, J., Sun, Z.,
     Tang, Y., Whitaker, T., Laidlaw, M. J., Mcdonald, W. J. F. &
@@ -214,53 +231,53 @@ Masatoshi Katabuchi
     and latitude. ***Journal of Biogeography*** 43, 59–69 (2016)
     [\[doi\]](https://doi.org/10.1111/jbi.12616).
 
-16. Nakamura, A., Burwell, C. J., Ashton, L. A., Laidlaw, M. J.,
+18. Nakamura, A., Burwell, C. J., Ashton, L. A., Laidlaw, M. J.,
     **Katabuchi, M.** & Kitching, R. L. Identifying indicator species of
     elevation: Comparing the utility of woody plants, ants and moths for
     long-term monitoring. ***Austral Ecology*** 41, 179–188 (2016)
     [\[doi\]](https://doi.org/10.1111/aec.12291).
 
-17. Nakamura, A., Burwell, C. J., Lambkin, C. L., **Katabuchi, M.**,
+19. Nakamura, A., Burwell, C. J., Lambkin, C. L., **Katabuchi, M.**,
     Mcdougall, A., Raven, R. J. & Neldner, V. J. The role of human
     disturbance in island biogeography of arthropods and plants: An
     information theoretic approach. ***Journal of Biogeography*** 42,
     1406–1417 (2015) [\[doi\]](https://doi.org/10.1111/jbi.12520).
 
-18. Deng, X., Mohandass, D., **Katabuchi, M.**, Hughes, A. C. &
+20. Deng, X., Mohandass, D., **Katabuchi, M.**, Hughes, A. C. &
     Roubik, D. W. Impact of Striped-Squirrel Nectar-Robbing Behaviour on
     Gender Fitness in *Alpinia* *Roxburghii* Sweet (Zingiberaceae).
     ***PLoS ONE*** 10, (2015)
     [\[doi\]](https://doi.org/10.1371/journal.pone.0144585).
 
-19. Hikosaka, K., Sasaki, T., Kamiyama, C., **Katabuchi, M.**, Oikawa,
+21. Hikosaka, K., Sasaki, T., Kamiyama, C., **Katabuchi, M.**, Oikawa,
     S., Shimazaki, M., Kimura, K. & Nakshizuka, T. Understanding of
     species niche, coexistence and extinction based on functional traits
     : Approaches from community and physiological ecology for subalpine
     moorland plant communities \[in Japanese\]. ***Chikyu-Kankyo*** 19,
     33–46 (2014).
 
-20. Kamiyama, C., **Katabuchi, M.**, Sasaki, T., Shimazaki, M.,
+22. Kamiyama, C., **Katabuchi, M.**, Sasaki, T., Shimazaki, M.,
     Nakashizuka, T. & Hikosaka, K. Leaf-trait responses to environmental
     gradients in moorland communities: Contribution of intraspecific
     variation, species replacement and functional group replacement.
-    ***Ecol Res*** 29, 607–617 (2014)
+    ***Ecological Research*** 29, 607–617 (2014)
     [\[doi\]](https://doi.org/10.1007/s11284-014-1148-z).
 
-21. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
+23. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
     Nakashizuka, T. & Hikosaka, K. Vulnerability of moorland plant
     communities to environmental change: Consequences of realistic
     species loss on functional diversity. ***Journal of Applied
     Ecology*** 51, 299–308 (2014)
     [\[doi\]](https://doi.org/10.1111/1365-2664.12192).
 
-22. Cádiz, A., Nagata, N., **Katabuchi, M.**, DíAZ, L. M.,
+24. Cádiz, A., Nagata, N., **Katabuchi, M.**, DíAZ, L. M.,
     ECHENIQUE-DíAZ, L. M., Akashi, H. D., Makino, T. & Kawata, M.
     Relative importance of habitat use, range expansion, and speciation
     in local species diversity of anolis lizards in cuba.
     ***Ecosphere*** 4, (2013)
     [\[doi\]](https://doi.org/10.1890/ES12-00383.1).
 
-23. Asanok, L., Marod, D., Duengkae, P., Pranmongkol, U., Kurokawa, H.,
+25. Asanok, L., Marod, D., Duengkae, P., Pranmongkol, U., Kurokawa, H.,
     Aiba, M., **Katabuchi, M.** & Nakashizuka, T. Relationships between
     functional traits and the ability of forest tree species to
     reestablish in secondary forest and enrichment plantations in the
@@ -268,46 +285,46 @@ Masatoshi Katabuchi
     296, 9–23 (2013)
     [\[doi\]](https://doi.org/10.1016/j.foreco.2013.01.029).
 
-24. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
+26. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
     Nakashizuka, T. & Hikosaka, K. Variations in species composition of
     moorland plant communities along environmental gradients within a
     subalpine zone in northern japan. ***Wetlands*** 33, 269–277 (2013)
     [\[doi\]](https://doi.org/10.1007/s13157-013-0380-6).
 
-25. Aiba, M., **Katabuchi, M.**, Takafumi, H., Matsuzaki, S. I. S.,
+27. Aiba, M., **Katabuchi, M.**, Takafumi, H., Matsuzaki, S. I. S.,
     Sasaki, T. & Hiura, T. Robustness of trait distribution metrics for
     community assembly studies under the uncertainties of assembly
     processes. ***Ecology*** 94, 2873–2885 (2013)
     [\[doi\]](https://doi.org/10.1890/13-0269.1).
 
-26. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
+28. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
     Nakashizuka, T. & Hikosaka, K. Nestedness and niche-based species
     loss in moorland plant communities. ***Oikos*** 121,
     1783–1790 (2012)
     [\[doi\]](https://doi.org/10.1111/j.1600-0706.2012.20152.x).
 
-27. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
+29. Sasaki, T., **Katabuchi, M.**, Kamiyama, C., Shimazaki, M.,
     Nakashizuka, T. & Hikosaka, K. Diversity partitioning of moorland
     plant communities across hierarchical spatial scales.
     ***Biodiversity and Conservation*** 21, 1577–1588 (2012)
     [\[doi\]](https://doi.org/10.1007/s10531-012-0265-7).
 
-28. **Katabuchi, M.**, Kurokawa, H., Davies, S. J., Tan, S. &
+30. **Katabuchi, M.**, Kurokawa, H., Davies, S. J., Tan, S. &
     Nakashizuka, T. Soil resource availability shapes community trait
     structure in a species-rich dipterocarp forest. ***Journal of
     Ecology*** 100, 643–651 (2012)
     [\[doi\]](https://doi.org/10.1111/j.1365-2745.2011.01937.x).
 
-29. **Katabuchi, M.**, Harrison, R. D. & Nakashizuka, T. Documenting the
-    effect of foundress number in a dioecious fig, *Ficus* *Fistulosa*,
-    in Malaysia. ***Biotropica*** 40, 457–461 (2008)
-    [\[doi\]](https://doi.org/10.1111/j.1744-7429.2008.00405.x).
-
-30. **Katabuchi, M.**, Isagi, Y. & Nakashizuka, T. Development of 17
+31. **Katabuchi, M.**, Isagi, Y. & Nakashizuka, T. Development of 17
     microsatellite markers for *Ceratosolen* *Constrictus*, the
     pollinating fig wasp of *Ficus* *Fistulosa*. ***Molecular Ecology
     Resources*** 8, 840–842 (2008)
     [\[doi\]](https://doi.org/10.1111/j.1755-0998.2007.02084.x).
+
+32. **Katabuchi, M.**, Harrison, R. D. & Nakashizuka, T. Documenting the
+    effect of foundress number in a dioecious fig, *Ficus* *Fistulosa*,
+    in Malaysia. ***Biotropica*** 40, 457–461 (2008)
+    [\[doi\]](https://doi.org/10.1111/j.1744-7429.2008.00405.x).
 
 ## Book
 
