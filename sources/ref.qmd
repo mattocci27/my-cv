@@ -5,6 +5,8 @@ output-file: ref_output.md
 csl: ../templates/my_ref.csl
 ---
 
+@Nguyen2025
+@Katabuchi2025
 @Song2024a
 @Zhou2023a
 @Phoutthavong2023
@@ -16,7 +18,6 @@ csl: ../templates/my_ref.csl
 @Johnson2018
 @Osnas2018
 @Li2017
-@Katabuchi2017a
 @Katabuchi2017
 @Siefert2015
 @Katabuchi2015
@@ -29,7 +30,7 @@ csl: ../templates/my_ref.csl
 @Sasaki2014
 @Cadiz2013
 @Asanok2013
-@Sasaki2013
+@Sasaki2013a
 @Aiba2013
 @Sasaki2012a
 @Sasaki2012
