@@ -508,4 +508,7 @@ Japanese (native), English (fluent), Malay (basic), Chinese-Mandarin
 
 ## Graduate Students
 
-Zhou Cong, 2021 - Present, M.Sc. Student, Recipient of UCAS Scholarship.
+Thi Duyen Nguyen, 2021 - 2025, M.Sc. Student, Recipient of ANSO
+Scholarship.
+
+Zhou Cong, 2021 - 2023, M.Sc. Student, Recipient of UCAS Scholarship.
