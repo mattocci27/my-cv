@@ -12,8 +12,12 @@
 : **mglmn**: Model Averaging fro Multivariate GLM with Null Models, R CRAN package  [R CRAN package](https://cran.r-project.org/web/packages/mglmn/index.html)
 
 ## Teaching Experience
+
+2025
+: The 8th Advanced Statistics Workshop, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
+
 2019-
-: How do we measure and study biological diversity?, Advanced Field course in Ecology and Conservation, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
+: Advanced Field course in Ecology and Conservation, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
 
 2013
 : Experimental Design and Data Analysis, ATBC Asia-Pacific chapter, Banda Aceh, Indonesia
@@ -21,7 +25,11 @@
 2013
 : R and generalized linear models, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, China
 
-## Service
+## Academic Service
+2023-
+: []()
+: Editorial Board Member of Thai Forest Ecological Research Journal
+
 2015-2017
 : []()
 : Working Group Member of INNGE, International Network of Next-Generation Ecologists
@@ -34,15 +42,19 @@
 : []()
 : Statistical editor for Lepcey, The Journal of Tropical Asian Entomology
 
-Reviewer for journals (~ 12 per year):
-\begin{multicols}{2}
+### Reviewer for journals (~ 12 per year):
+\begin{multicols}{3}
 - AoB Plants
 
 - Biotropica
 
 - BMC Evolutionary Biology
 
+- BMC Plant Biology
+
 - Ecological Research
+
+- Ecology
 
 - Ecology Letters
 
@@ -53,6 +65,8 @@ Reviewer for journals (~ 12 per year):
 - Frontiers in Plant Science
 
 - Functional Ecology
+
+-  Global Ecology and Biogeography
 
 - Journal of Applied Ecology
 
