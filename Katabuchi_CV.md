@@ -58,7 +58,8 @@ April 2010-March 2012
 NIG-JOINT 193,000 JPY
 
 2025  
-Xingdian Talent Support Program of Yunnan Province 600,000 RMB
+Xingdian Talent Support Program of Yunnan Province (E5YNR03B01) 600,000
+RMB
 
 2024  
 NIG-JOINT 149,000 JPY
@@ -351,10 +352,13 @@ package](https://cran.r-project.org/web/packages/mglmn/index.html)
 
 ## Teaching Experience
 
+2025  
+The 8th Advanced Statistics Workshop, Xishuangbanna Tropical Botanical
+Garden, Chinese Academy of Sciences, China
+
 2019-  
-How do we measure and study biological diversity?, Advanced Field course
-in Ecology and Conservation, Xishuangbanna Tropical Botanical Garden,
-Chinese Academy of Sciences, China
+Advanced Field course in Ecology and Conservation, Xishuangbanna
+Tropical Botanical Garden, Chinese Academy of Sciences, China
 
 2013  
 Experimental Design and Data Analysis, ATBC Asia-Pacific chapter, Banda
@@ -364,7 +368,12 @@ Aceh, Indonesia
 R and generalized linear models, Xishuangbanna Tropical Botanical
 Garden, Chinese Academy of Sciences, China
 
-## Service
+## Academic Service
+
+2023-  
+[]()
+
+Editorial Board Member of Thai Forest Ecological Research Journal
 
 2015-2017  
 []()
@@ -382,7 +391,8 @@ INNGE manager, The Japan Society of Tropical Ecology
 
 Statistical editor for Lepcey, The Journal of Tropical Asian Entomology
 
-Reviewer for journals (~ 12 per year):
+### Reviewer for journals (~ 12 per year):
+
 ## Awards and Prizes
 
 2012  
