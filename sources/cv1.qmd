@@ -1,8 +1,8 @@
 ---
 author: Masatoshi Katabuchi
 title: Associate Professor
-department: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
-address: Menglun, Mengla, Yunnan, 666303 China
+department: Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences, Mengla, Yunnan, 666303 China
+department2: University of Chinese Academy of Sciences, Beijing, 100049 China
 web: mattocci27.github.io
 mail: katabuchi@xtbg.ac.cn
 orcid: 0000-0001-9900-9029
