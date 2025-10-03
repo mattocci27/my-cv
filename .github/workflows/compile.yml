@@ -42,7 +42,7 @@ jobs:
     - name: Generate Markdown CV
       run: |
         quarto render main.qmd --to=md
-          mv main.md outputs/${{ env.LASTNAME }}_CV.md
+        mv main.md outputs/${{ env.LASTNAME }}_CV.md
     - name: Upload dist folder
       uses: actions/upload-artifact@v4
       with:
