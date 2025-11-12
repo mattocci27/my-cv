@@ -1,5 +1,8 @@
 ## Book
-1. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
+
+1. Yang D., Tai X., He Y., Liu T., Li S. and **Katabuchi M.** (*in press*), Earth Observations for Deforestation. In: Huang X., Tsatsaris A., Kalogeropoulos K. and Wang S. (eds.), Data-Driven Earth Observation for Disaster Management: From Theory to Practical Applications. Elsevier, Amsterdam. (ISBN: 9780443338038)
+
+2. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
 
 ## Software
 2020
