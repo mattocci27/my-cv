@@ -25,9 +25,7 @@ jobs:
     - name: Setup Quarto
       uses: quarto-dev/quarto-actions/setup@v2
     - name: Install TinyTeX
-      run: |
-        curl -sL https://yihui.org/tinytex/install-bin-unx.sh | sh
-        echo "$(dirname $(find ~/Library/TinyTeX -name tlmgr -print -quit))" >> $GITHUB_PATH
+      uses: r-lib/actions/setup-tinytex@v1
     - name: Generate Markdown References
       run: |
         $QUARTO render sources/ref.qmd --to=md

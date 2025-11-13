@@ -41,8 +41,9 @@ make
 
 ## Requirements
 
-To compile this project locally, the following dependencies are necessary:
+- To compile this project locally, the following dependencies are necessary:
 
 - [Quarto](https://quarto.org)
 - [TinyTeX](https://yihui.org/tinytex/)
+- [PyYAML](https://pypi.org/project/PyYAML/) (optional when using YAML metadata on your machine)
 - PyYAML (optional, required for YAML metadata locally)
