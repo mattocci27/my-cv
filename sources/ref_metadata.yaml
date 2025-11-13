@@ -1,0 +1,154 @@
+global_text_replacements:
+  - pattern: ',\\s*doi:\\[(.*?)\\]\\((.*?)\\)'
+    replacement: ' [[doi]](\\2)'
+references:
+  - doi: 10.1111/nph.70488
+    match_text: Hydraulic conductivity-induced systematic parameter variation in a widely used thermal dissipation sap-flow technique.
+    first_authors:
+      - Chen, Y.-J.
+      - Maenpuen, P.
+      - Katabuchi, M.
+      - Oren, R.
+    corresponding_authors:
+      - Chen, Y.-J.
+      - Oren, R.
+  - match_text: "Leaf litter decomposition along an elevation gradient across two contrasting forest types: Implications for future climate change."
+    corresponding_authors:
+      - Kurokawa, H.
+  - doi: 10.1007/s11676-025-01898-9
+    match_text: Saturating allometric relationships reveal how wood density shapes global tree architecture.
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1007/s00442-025-05714-3
+    match_text: Decomposing leaf mass into metabolic and structural components explains divergent patterns of trait variation within and among plant species.
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1002/ecy.4382
+    match_text: Drought tolerance and species abundance mediate dry season negative density dependence in a tropical forest.
+    first_authors:
+      - Song, X.
+      - Katabuchi, M.
+    corresponding_authors:
+      - Yang, J.
+  - doi: 10.3390/ecologies4040046
+    match_text: "Artificial Light at Night (ALAN) Influences Understory Plant Traits through Ecological Processes: A Two-Year Experiment in a Rubber Plantation in China."
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1093/jpe/rtad026
+    match_text: "Inter- and intraspecific adaptations of pteridophyte leaf traits in limestone and non-limestone forests of monsoon tropical regions of southwest China."
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1002/ajb2.16038
+    match_text: "Sources and consequences of mismatch between leaf disc and whole-leaf leaf mass per area (LMA)."
+    first_authors:
+      - Maenpuen, P.
+      - Katabuchi, M.
+    corresponding_authors:
+      - Katabuchi, M.
+      - Zhang, J.-L.
+  - doi: 10.1111/ele.13856
+    match_text: "Hydraulic prediction of drought-induced plant dieback and top-kill depends on leaf habit and growth form."
+    corresponding_authors:
+      - Sterck, F.
+      - Cao, K.-F.
+      - Jansen, S.
+  - doi: 10.1111/nph.16927
+    match_text: "Quantifying vulnerability to embolism in tropical trees and lianas using five methods: Can discrepancies be explained by xylem structural traits?"
+    corresponding_authors:
+      - Chen, Y.-J.
+      - Zhang, S.-B.
+      - Zhang, Y.-J.
+  - doi: 10.1002/ecm.1408
+    match_text: "Long-term shifts in the functional composition and diversity of a tropical dry forest: A 30-yr study."
+    corresponding_authors:
+      - Swenson, N. G.
+  - doi: 10.1098/s41559-018-0626-z
+    match_text: "Climate sensitive size-dependent survival in tropical trees."
+    corresponding_authors:
+      - Johnson, D. J.
+  - doi: 10.1073/pnas.1803989115
+    match_text: "Divergent drivers of leaf trait variation within species, among species, and among functional groups."
+    corresponding_authors:
+      - Lichstein, J. W.
+  - doi: 10.1111/1365-2745.12802
+    match_text: "Habitat filtering determines the functional niche occupancy of plant communities worldwide."
+    corresponding_authors:
+      - Shipley, B.
+  - doi: 10.1002/ecy.1952
+    match_text: "Contrasting outcomes of species- and community-level analyses of the temporal consistency of functional composition."
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1111/ele.12508
+    match_text: "A global meta-analysis of the relative extent of intraspecific trait variation in plant communities."
+    corresponding_authors:
+      - Siefert, A.
+  - doi: 10.1007/s11284-015-1307-x
+    match_text: "LeafArea: An R package for rapid digital image analysis of leaf area."
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1111/jbi.12616
+    match_text: "Vertical stratification of moths across elevation and latitude."
+    corresponding_authors:
+      - Nakamura, A.
+  - doi: 10.1111/aec.12291
+    match_text: "Identifying indicator species of elevation: Comparing the utility of woody plants, ants and moths for long-term monitoring."
+    corresponding_authors:
+      - Nakamura, A.
+  - doi: 10.1111/jbi.12520
+    match_text: "The role of human disturbance in island biogeography of arthropods and plants: An information theoretic approach."
+    corresponding_authors:
+      - Nakamura, A.
+  - doi: 10.1371/journal.pone.0144585
+    match_text: "Impact of Striped-Squirrel Nectar-Robbing Behaviour on Gender Fitness in Alpinia Roxburghii Sweet (Zingiberaceae)."
+    corresponding_authors:
+      - Mohandass, D.
+  - match_text: "Understanding of species niche, coexistence and extinction based on functional traits [in Japanese]."
+    corresponding_authors:
+      - Hikosaka, K.
+  - doi: 10.1007/s11284-014-1148-z
+    match_text: "Leaf-trait responses to environmental gradients in moorland communities: Contribution of intraspecific variation, species replacement and functional group replacement."
+    corresponding_authors:
+      - Kamiyama, C.
+  - doi: 10.1111/1365-2664.12192
+    match_text: "Vulnerability of moorland plant communities to environmental change: Consequences of realistic species loss on functional diversity."
+    corresponding_authors:
+      - Sasaki, T.
+  - doi: 10.1890/ES12-00383.1
+    match_text: "Relative importance of habitat use, range expansion, and speciation in local species diversity of anolis lizards in cuba."
+    corresponding_authors:
+      - Cádiz, A.
+  - doi: 10.1016/j.foreco.2013.01.029
+    match_text: "Relationships between functional traits and the ability of forest tree species to reestablish in secondary forest and enrichment plantations in the uplands of northern Thailand."
+    corresponding_authors:
+      - Asanok, L.
+  - doi: 10.1007/s13157-013-0380-6
+    match_text: "Variations in species composition of moorland plant communities along environmental gradients within a subalpine zone in northern japan."
+    corresponding_authors:
+      - Sasaki, T.
+  - doi: 10.1890/13-0269.1
+    match_text: "Robustness of trait distribution metrics for community assembly studies under the uncertainties of assembly processes."
+    corresponding_authors:
+      - Aiba, M.
+  - doi: 10.1111/j.1600-0706.2012.20152.x
+    match_text: "Nestedness and niche-based species loss in moorland plant communities."
+    corresponding_authors:
+      - Sasaki, T.
+  - doi: 10.1007/s10531-012-0265-7
+    match_text: "Diversity partitioning of moorland plant communities across hierarchical spatial scales."
+    corresponding_authors:
+      - Sasaki, T.
+  - doi: 10.1111/j.1365-2745.2011.01937.x
+    match_text: "Soil resource availability shapes community trait structure in a species-rich dipterocarp forest."
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1111/j.1755-0998.2007.02084.x
+    match_text: "Development of 17 microsatellite markers for Ceratosolen Constrictus, the pollinating fig wasp of Ficus Fistulosa."
+    corresponding_authors:
+      - Katabuchi, M.
+  - doi: 10.1111/j.1744-7429.2008.00405.x
+    match_text: "Documenting the effect of foundress number in a dioecious fig, Ficus Fistulosa, in Malaysia."
+    corresponding_authors:
+      - Katabuchi, M.
+highlight_authors:
+  - name: Katabuchi, M.
+    template: "**{name}**"

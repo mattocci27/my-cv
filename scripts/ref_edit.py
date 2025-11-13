@@ -91,7 +91,19 @@ def find_metadata_entry(
 def highlight_author(text: str, author: str, template: str) -> str:
     if not author:
         return text
-    return text.replace(author, template.format(name=author))
+    formatted = template.format(name=author)
+    if formatted == author:
+        return text.replace(author, formatted)
+    pattern = re.escape(author)
+
+    parts = template.split("{name}")
+    prefix = parts[0] if len(parts) > 1 else ""
+    suffix = parts[-1] if len(parts) > 1 else ""
+
+    lookbehind = f"(?<!{re.escape(prefix)})" if prefix else ""
+    lookahead = f"(?!{re.escape(suffix)})" if suffix else ""
+
+    return re.sub(f"{lookbehind}{pattern}{lookahead}", formatted, text)
 
 
 def merge_dict(base: dict, override: dict | None) -> dict:
@@ -146,7 +158,7 @@ def apply_author_flags(
                     tokens.append(escape_markdown_symbol(token))
         if not tokens:
             continue
-        suffix = f"^{''.join(tokens)}^"
+        suffix = f"{''.join(tokens)}"
         if name + suffix in text:
             continue
         text = text.replace(name, f"{name}{suffix}")
@@ -236,6 +248,12 @@ def main() -> None:
             updated_text = highlight_author(
                 updated_text, args.author, args.author_template
             )
+        for highlight in metadata.get("highlight_authors", []) or []:
+            name = highlight.get("name")
+            if not name:
+                continue
+            template = highlight.get("template") or "**{name}**"
+            updated_text = highlight_author(updated_text, name, template)
         formatted_refs.append(f"{left} {updated_text}")
 
     args.output.write_text("\n\n".join(formatted_refs).rstrip() + "\n", encoding="utf-8")
