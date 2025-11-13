@@ -2,7 +2,7 @@ AUTHOR='Katabuchi, M.'
 LASTNAME=Katabuchi
 OUTPUT_PREFIX=outputs/$(LASTNAME)_CV
 
-COMMON_DEPS = main.qmd sources/cv1.qmd outputs/ref_output_edit.md sources/cv2.qmd
+COMMON_DEPS = main.qmd sources/cv1.qmd outputs/ref_output_edit.md sources/*
 
 .PHONY: all ref pdf docx md clean
 
@@ -16,10 +16,10 @@ docx: $(OUTPUT_PREFIX).docx
 
 md: $(OUTPUT_PREFIX).md
 
-outputs/ref_output_edit.md: sources/ref.qmd sources/ref.bib scripts/ref_edit.py
+outputs/ref_output_edit.md: sources/ref.qmd sources/ref.bib scripts/ref_edit.py sources/ref_metadata_example.yaml
 	quarto render sources/ref.qmd --to=md
 	mv sources/ref_output.md outputs/ref_output.md
-	python scripts/ref_edit.py $(AUTHOR)
+	python scripts/ref_edit.py -m sources/ref_metadata_example.yaml -a "$(AUTHOR)"
 
 $(OUTPUT_PREFIX).pdf: $(COMMON_DEPS)
 	quarto render main.qmd --to=pdf

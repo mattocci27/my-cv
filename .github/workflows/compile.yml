@@ -21,8 +21,10 @@ jobs:
         python -m pip install --upgrade pip
     - name: Setup Quarto
       uses: quarto-dev/quarto-actions/setup@v2
-      with:
-        tinytex: true
+    - name: Install TinyTeX
+      run: |
+        curl -sL https://yihui.org/tinytex/install-bin-unx.sh | sh
+        echo "$(dirname $(find ~/Library/TinyTeX -name tlmgr -print -quit))" >> $GITHUB_PATH
     - name: Generate Markdown References
       run: |
         quarto render sources/ref.qmd --to=md

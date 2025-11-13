@@ -1,0 +1,14 @@
+global_text_replacements:
+  - pattern: ',\\s*doi:\\[(.*?)\\]\\((.*?)\\)'
+    replacement: ' [[doi]](\\2)'
+references:
+  - doi: 10.1111/nph.70488
+    match_text: Hydraulic conductivity-induced systematic parameter variation in a widely used thermal dissipation sap-flow technique.
+    first_authors:
+      - Chen, Y.-J.
+      - Maenpuen, P.
+      - Katabuchi, M.
+      - Oren, R.
+    corresponding_authors:
+      - Chen, Y.-J.
+      - Oren, R.
