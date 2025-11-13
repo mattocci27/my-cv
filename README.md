@@ -18,10 +18,11 @@ vim sources/ref.md
 vim sources/ref.bib
 ```
 
-### Bibtex Support
+### Bibtex & metadata
 
-This template allows you to use a Bibtex file (ref.bib) for bibliographic entries in your CV.
-An author name specified in the `Makefile` and in the `.github/workflows/compile.yml` under `AUTHOR=` will be highlighted in bold (e.g., `AUTHOR='Shikibu, M.'`).
+This template combines a Bibtex file (`sources/ref.bib`) with metadata (`sources/ref_metadata_example.yaml`) so you can declare co-first/corresponding authors, custom replacements, and extra highlights per reference.
+The `Makefile` and `.github/workflows/compile.yml` drive `scripts/ref_edit.py` with the metadata file plus the `AUTHOR` value (`Katabuchi, M.` by default), so the highlighted author stays bold while the metadata controls the †/* suffixes.
+Edit `sources/ref_metadata_example.yaml` or add your own metadata file and pass it via `METADATA=` when running `make` if you want to adjust different references; install `PyYAML` before running if you need YAML parsing locally (`pip install pyyaml`).
 
 ### PDF Rendering with GitHub Actions
 
@@ -44,4 +45,4 @@ To compile this project locally, the following dependencies are necessary:
 
 - [Quarto](https://quarto.org)
 - [TinyTeX](https://yihui.org/tinytex/)
-
+- PyYAML (optional, required for YAML metadata locally)
