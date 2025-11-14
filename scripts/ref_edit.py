@@ -103,7 +103,15 @@ def highlight_author(text: str, author: str, template: str) -> str:
     lookbehind = f"(?<!{re.escape(prefix)})" if prefix else ""
     lookahead = f"(?!{re.escape(suffix)})" if suffix else ""
 
-    return re.sub(f"{lookbehind}{pattern}{lookahead}", formatted, text)
+    suffix_pattern = r"(?:(?:\\.)|[†*])*"
+    regex = f"{lookbehind}(?P<core>{pattern})(?P<extra>{suffix_pattern}){lookahead}"
+
+    def replace(match: re.Match[str]) -> str:
+        core = match.group("core")
+        extra = match.group("extra") or ""
+        return template.format(name=f"{core}{extra}")
+
+    return re.sub(regex, replace, text)
 
 
 def merge_dict(base: dict, override: dict | None) -> dict:
