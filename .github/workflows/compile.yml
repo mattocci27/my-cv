@@ -6,7 +6,7 @@ on:
 env:
   LASTNAME: Katabuchi
   AUTHOR: 'Katabuchi, M.'
-  METADATA: sources/ref_metadata_example.yaml
+  METADATA: sources/ref_metadata.yaml
   QUARTO: quarto
 
 jobs:
