@@ -1,6 +1,6 @@
 1.  Kurokawa, H.\*, Arai, T., Takayanagi, S., Kobayashi, M., Fukuzawa, K., **Katabuchi, M.**, Oguro, M., Aiba, M., Nagano, S., Hikosaka, K., Shibata, H., Kaneko, N. & Nakashizuka, T. Leaf litter decomposition along an elevation gradient across two contrasting forest types: Implications for future climate change. ***Ecological Research*** 41, e70021 (2026) [[doi]](https://doi.org/10.1111/1440-1703.70021).
 
-2.  Chen, Y.-J.†\*, Maenpuen, P.†, **Katabuchi, M.†**, Tor-ngern, P., Palmroth, S., Zhang, S.-B., Xiao, Y.-X., Liu, M. & Oren, R.†\* Hっっjydraulic conductivity-induced systematic parameter variation in a widely used thermal dissipation sap-flow technique. ***New Phytologist*** (2025) [[doi]](https://doi.org/10.1111/nph.70488).
+2.  Chen, Y.-J.†\*, Maenpuen, P.†, **Katabuchi, M.†**, Tor-ngern, P., Palmroth, S., Zhang, S.-B., Xiao, Y.-X., Liu, M. & Oren, R.†\* Hydraulic conductivity-induced systematic parameter variation in a widely used thermal dissipation sap-flow technique. ***New Phytologist*** (2025) [[doi]](https://doi.org/10.1111/nph.70488).
 
 3.  Nguyen, T. D. & **Katabuchi, M.\*** Saturating allometric relationships reveal how wood density shapes global tree architecture. ***Journal of Forestry Research*** 36, 107 (2025) [[doi]](https://doi.org/10.1007/s11676-025-01898-9).
 

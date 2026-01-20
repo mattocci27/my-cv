@@ -118,8 +118,8 @@ Masatoshi Katabuchi
 
 2.  Chen, Y.-J.†\*, Maenpuen, P.†, **Katabuchi, M.†**, Tor-ngern, P.,
     Palmroth, S., Zhang, S.-B., Xiao, Y.-X., Liu, M. & Oren, R.†\*
-    Hっっjydraulic conductivity-induced systematic parameter variation
-    in a widely used thermal dissipation sap-flow technique. ***New
+    Hydraulic conductivity-induced systematic parameter variation in a
+    widely used thermal dissipation sap-flow technique. ***New
     Phytologist*** (2025) [\[doi\]](https://doi.org/10.1111/nph.70488).
 
 3.  Nguyen, T. D. & **Katabuchi, M.\*** Saturating allometric
@@ -421,6 +421,10 @@ Statistical editor for Lepcey, The Journal of Tropical Asian Entomology
 ### Reviewer for journals (~ 12 per year):
 
 ## Awards and Prizes
+
+2026  
+Outstanding Staff Award for the year of 2025, Xishuangbanna Tropical
+Botanical Garden, Chinese Academy of Sciences
 
 2012  
 Dean’s award for excellence, Graduate School of Life Sciences (Doctoral

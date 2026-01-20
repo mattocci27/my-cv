@@ -24,9 +24,9 @@ doi:[10.1111/1440-1703.70021](https://doi.org/10.1111/1440-1703.70021).</span>
 <span class="csl-left-margin">2.
 </span><span class="csl-right-inline">Chen, Y.-J., Maenpuen, P.,
 Katabuchi, M., Tor-ngern, P., Palmroth, S., Zhang, S.-B., Xiao, Y.-X.,
-Liu, M. & Oren, R. Hっっjydraulic conductivity-induced systematic
-parameter variation in a widely used thermal dissipation sap-flow
-technique. ***New Phytologist*** (2025),
+Liu, M. & Oren, R. Hydraulic conductivity-induced systematic parameter
+variation in a widely used thermal dissipation sap-flow technique.
+***New Phytologist*** (2025),
 doi:[10.1111/nph.70488](https://doi.org/10.1111/nph.70488).</span>
 
 <span class="csl-left-margin">3.
