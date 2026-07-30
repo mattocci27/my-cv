@@ -231,7 +231,7 @@ Masatoshi Katabuchi
     functional composition. ***Ecology*** 98, 2273–2280 (2017)
     [\[doi\]](https://doi.org/10.1002/ecy.1952).
 
-18. <span class="nocase">Siefert, A., Violle, C., Chalmandrier, L.,
+18. <span class="nocase">Siefert, A.\*, Violle, C., Chalmandrier, L.,
     Albert, C. H., Taudiere, A., Fajardo, A., Aarssen, L. W., Baraloto,
     C., Carlucci, M. B., Cianciaruso, M. V., de L. Dantas, V., de Bello,
     F., Duarte, L. D. S., Fonseca, C. R., Freschet, G. T., Gaucherand,
@@ -241,18 +241,24 @@ Masatoshi Katabuchi
     J., Nakashizuka, T., Overton, J. M., Peltzer, D. A., Pérez-Ramos, I.
     M., Pillar, V. D., Prentice, H. C., Richardson, S., Sasaki, T.,
     Schamp, B. S., Schöb, C., Shipley, B., Sundqvist, M., Sykes, M. T.,
-    Vandewalle, M. & Wardle, D. A.
+    Vandewalle, M. & Wardle, D. A.</span> A global meta-analysis of the
+    relative extent of intraspecific trait variation in plant
+    communities. ***Ecology Letters*** 18, 1406–1419 (2015)
+    [\[doi\]](https://doi.org/10.1111/ele.12508).
 
 19. **Katabuchi, M.\*** LeafArea: An R package for rapid digital image
     analysis of leaf area. ***Ecological Research*** 30,
     1073–1077 (2015)
     [\[doi\]](https://doi.org/10.1007/s11284-015-1307-x).
 
-20. <span class="nocase">Ashton, L. A., Nakamura, A., Basset, Y.,
+20. <span class="nocase">Ashton, L. A., Nakamura, A.\*, Basset, Y.,
     Burwell, C. J., Cao, M., Eastwood, R., Odell, E., de Oliveira, E.
     G., Hurley, K., **Katabuchi, M.**, Maunsell, S., Mcbroom, J.,
     Schmidl, J., Sun, Z., Tang, Y., Whitaker, T., Laidlaw, M. J.,
-    Mcdonald, W. J. F. & Kitching, R. L.
+    Mcdonald, W. J. F. & Kitching, R. L.</span> Vertical stratification
+    of moths across elevation and latitude. ***Journal of
+    Biogeography*** 43, 59–69 (2016)
+    [\[doi\]](https://doi.org/10.1111/jbi.12616).
 
 21. Nakamura, A.\*, Burwell, C. J., Ashton, L. A., Laidlaw, M. J.,
     **Katabuchi, M.** & Kitching, R. L. Identifying indicator species of
