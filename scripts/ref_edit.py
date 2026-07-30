@@ -231,7 +231,8 @@ def main() -> None:
     raw_content = args.input.read_text(encoding="utf-8")
     single_line = re.sub(r"(?<!\n)\n(?!\n)", " ", raw_content)
     refs = re.findall(
-        r'<span class="csl-left-margin">(.*?)<\/span>.*?<span class="csl-right-inline">(.*?)<\/span>',
+        r'<span class="csl-left-margin">(.*?)<\/span>.*?<span class="csl-right-inline">(.*?)<\/span>'
+        r'(?=\s*(?:<span class="csl-left-margin">|\Z))',
         single_line,
         re.MULTILINE | re.DOTALL,
     )
