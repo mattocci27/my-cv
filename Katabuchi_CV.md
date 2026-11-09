@@ -371,6 +371,10 @@ Masatoshi Katabuchi
 
 ## Software
 
+2025  
+**calba**: Efficient Neighborhood Basal Area Metrics for Trees, [R CRAN
+package](https://cran.r-project.org/web/packages/calba/index.html)
+
 2020  
 **ztpln**: Zero-Truncated Poisson Lognormal Distribution, [R CRAN
 package](https://cran.r-project.org/web/packages/ztpln/index.html)
