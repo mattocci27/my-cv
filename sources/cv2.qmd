@@ -5,6 +5,9 @@
 2. Hikosaka K., Sasaki T., Kamiyama C., **Katabuchi M.**, Oikawa S., Shimazaki M., Kimura H. and Nakashizuka T. (2016), Trait-Based Approaches for Understanding Species Niche, Coexistence, and Functional Diversity in Subalpine Moorlands.  Structure and Function of Mountain Ecosystems in Japan.
 
 ## Software
+2025
+: **calba**: Efficient Neighborhood Basal Area Metrics for Trees, [R CRAN package](https://cran.r-project.org/web/packages/calba/index.html)
+
 2020
 : **ztpln**: Zero-Truncated Poisson Lognormal Distribution, [R CRAN package](https://cran.r-project.org/web/packages/ztpln/index.html)
 
