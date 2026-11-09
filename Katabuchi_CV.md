@@ -544,10 +544,18 @@ ATBC, Marburg, Germany
 
 ## Outreach
 
+2026  
+“International Research and Study Abroad Experiences,” Medical English
+II & IV, Osaka University School of Medicine, Japan (online).
+
+2026  
+Featured in “Foreign Experts in Yunnan,” Qicai Yunduan (Yunnan Radio and
+Television), China. Featured research on forest biodiversity maintenance
+mechanisms in Xishuangbanna and life in Yunnan.
+
 2015  
-Masatoshi Katabuchi “Leaves and tropical rainforests”. Invited by the
-Japanese Association of Interdisciplinary Study Group in University
-Florida
+“Leaves and tropical rainforests,” invited by the Japanese Association
+of Interdisciplinary Study Group in University Florida.
 
 ## Languages
 
